@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2289"
+   sodipodi:docname="tiles.svg"
+   inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\floor tile.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2291"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="167.93786"
+     inkscape:cy="513.35952"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2286">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6908">
+      <stop
+         style="stop-color:#784421;stop-opacity:1"
+         offset="0"
+         id="stop6904" />
+      <stop
+         style="stop-color:#2b1100;stop-opacity:1"
+         offset="1"
+         id="stop6906" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6033">
+      <stop
+         style="stop-color:#502d16;stop-opacity:1"
+         offset="0"
+         id="stop6029" />
+      <stop
+         style="stop-color:#a05a2c;stop-opacity:1"
+         offset="1"
+         id="stop6031" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5100">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop5096" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:0;"
+         offset="1"
+         id="stop5098" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5100"
+       id="linearGradient5102"
+       x1="97.697395"
+       y1="126.93385"
+       x2="97.234375"
+       y2="63.301563"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6033"
+       id="linearGradient6035"
+       x1="36.495964"
+       y1="70.875267"
+       x2="36.495964"
+       y2="45.243748"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6908"
+       id="linearGradient8794"
+       gradientUnits="userSpaceOnUse"
+       x1="13.669922"
+       y1="42.934772"
+       x2="13.669922"
+       y2="69.753822"
+       gradientTransform="matrix(1,0,0,0.9470705,10.860723,4.6822415)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6908"
+       id="linearGradient9147"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.9470705,36.260723,4.6822414)"
+       x1="13.669922"
+       y1="42.934772"
+       x2="13.669922"
+       y2="69.753822" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6908"
+       id="linearGradient9183"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.9470705,27.794056,4.682241)"
+       x1="13.669922"
+       y1="42.934772"
+       x2="13.669922"
+       y2="69.753822" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6908"
+       id="linearGradient9206"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.9470705,19.32739,4.6822409)"
+       x1="13.669922"
+       y1="42.934772"
+       x2="13.669922"
+       y2="69.753822" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient6035);fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2372-2"
+       width="25.4"
+       height="25.4"
+       x="24.530645"
+       y="45.344261"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\wall tile 2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <rect
+       style="fill:#784421;stroke-width:0.1;stroke-linecap:round;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2372"
+       width="25.4"
+       height="25.4"
+       x="65.319588"
+       y="47.118553" />
+    <path
+       style="fill:#502d16;stroke:#502d16;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 65.352223,59.818556 H 90.686952"
+       id="path2904-5" />
+    <path
+       style="fill:#502d16;stroke:#502d16;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 65.352223,66.168554 H 90.686952"
+       id="path2904-9" />
+    <path
+       style="fill:#502d16;stroke:#502d16;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 65.319588,72.518555 H 90.654317"
+       id="path2904-8" />
+    <path
+       style="fill:#502d16;stroke:#502d16;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 65.352223,53.468555 H 90.686952"
+       id="path2904" />
+    <path
+       style="fill:#502d16;stroke:#502d16;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 65.319588,47.118553 H 90.654317"
+       id="path2904-7" />
+    <path
+       style="fill:none;stroke:#502d16;stroke-width:0.29662px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.669588,53.529511 v 6.231157"
+       id="path3568" />
+    <path
+       style="fill:none;stroke:#502d16;stroke-width:0.299362px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 78.019588,47.111266 v 6.346912"
+       id="path3568-54" />
+    <path
+       style="fill:#2b1100;fill-opacity:1;stroke:url(#linearGradient8794);stroke-width:0.598864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 24.530645,45.344497 V 70.744025"
+       id="path3568-54-7" />
+    <path
+       style="fill:#2b1100;fill-opacity:1;stroke:url(#linearGradient9147);stroke-width:0.598864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 49.930645,45.344497 V 70.744025"
+       id="path3568-54-7-2" />
+    <path
+       style="fill:#2b1100;fill-opacity:1;stroke:url(#linearGradient9183);stroke-width:0.598864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 41.463978,45.344497 V 70.744025"
+       id="path3568-54-7-2-2" />
+    <path
+       style="fill:#2b1100;fill-opacity:1;stroke:url(#linearGradient9206);stroke-width:0.598864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 32.997312,45.344497 V 70.744025"
+       id="path3568-54-7-2-0" />
+    <path
+       style="fill:none;stroke:#502d16;stroke-width:0.298776px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.319588,47.124933 v 6.322108"
+       id="path3568-54-00" />
+    <path
+       style="fill:none;stroke:#502d16;stroke-width:0.299435px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.352223,59.818556 v 6.349998"
+       id="path3568-54-00-2" />
+    <path
+       style="fill:none;stroke:#502d16;stroke-width:0.299694px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.654317,47.118553 v 6.361015"
+       id="path3568-54-00-4" />
+    <path
+       style="fill:none;stroke:#502d16;stroke-width:0.296649px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.654317,59.94404 v 6.232392"
+       id="path3568-54-00-4-3" />
+    <path
+       style="fill:none;stroke:#502d16;stroke-width:0.297012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 78.019588,59.854071 v 6.247694"
+       id="path3568-54-3" />
+    <path
+       style="fill:none;stroke:#502d16;stroke-width:0.297798px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 84.369585,53.479901 v 6.280767"
+       id="path3568-5" />
+    <path
+       style="fill:none;stroke:#502d16;stroke-width:0.300208px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.669589,66.127979 v 6.382842"
+       id="path3568-2" />
+    <path
+       style="fill:none;stroke:#502d16;stroke-width:0.300791px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 84.369586,66.127979 v 6.407647"
+       id="path3568-5-0" />
+    <rect
+       style="fill:#483e37;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2372-4"
+       width="25.4"
+       height="25.4"
+       x="102.4923"
+       y="49.741665"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\wall tile.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#502d16;stroke:#241f1c;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.52494,62.441669 h 25.33473"
+       id="path2904-5-0" />
+    <path
+       style="fill:#502d16;stroke:#241f1c;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.52494,68.791667 h 25.33473"
+       id="path2904-9-0" />
+    <path
+       style="fill:#502d16;stroke:#241f1c;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.4923,75.141668 h 25.33473"
+       id="path2904-8-1" />
+    <path
+       style="fill:#502d16;stroke:#241f1c;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.52494,56.091668 h 25.33473"
+       id="path2904-73" />
+    <path
+       style="fill:#502d16;stroke:#241f1c;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.4923,49.741666 h 25.33473"
+       id="path2904-7-8" />
+    <path
+       style="fill:none;stroke:#241f1c;stroke-width:0.29662px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 108.8423,56.152624 v 6.231157"
+       id="path3568-3" />
+    <path
+       style="fill:none;stroke:#241f1c;stroke-width:0.299362px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.1923,49.734379 v 6.346912"
+       id="path3568-54-9" />
+    <path
+       style="fill:none;stroke:#241f1c;stroke-width:0.298776px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.4923,49.748046 v 6.322108"
+       id="path3568-54-00-21" />
+    <path
+       style="fill:none;stroke:#241f1c;stroke-width:0.299435px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.52494,62.441669 v 6.349998"
+       id="path3568-54-00-2-0" />
+    <path
+       style="fill:none;stroke:#241f1c;stroke-width:0.299694px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127.82703,49.741666 v 6.361015"
+       id="path3568-54-00-4-1" />
+    <path
+       style="fill:none;stroke:#241f1c;stroke-width:0.296649px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127.82703,62.567153 v 6.232392"
+       id="path3568-54-00-4-3-3" />
+    <path
+       style="fill:none;stroke:#241f1c;stroke-width:0.297012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.1923,62.477184 v 6.247694"
+       id="path3568-54-3-9" />
+    <path
+       style="fill:none;stroke:#241f1c;stroke-width:0.297798px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.5423,56.103014 v 6.280767"
+       id="path3568-5-9" />
+    <path
+       style="fill:none;stroke:#241f1c;stroke-width:0.300208px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 108.8423,68.751092 v 6.382842"
+       id="path3568-2-5" />
+    <path
+       style="fill:none;stroke:#241f1c;stroke-width:0.300791px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.5423,68.751092 v 6.407647"
+       id="path3568-5-0-6" />
+    <rect
+       style="fill:url(#linearGradient5102);stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       id="rect2372-4-2"
+       width="25.4"
+       height="25.4"
+       x="85.592712"
+       y="101.86459"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\ladder tile.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="rect5334"
+       style="fill:#803300;stroke:#552200;stroke-width:0.499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 92.353018,98.704177 c -0.70358,0 -1.270207,1.132737 -1.270207,2.539893 v 25.4 c 0,0.12626 0.0062,0.2493 0.01499,0.37052 h 2.509925 c 0.0088,-0.12122 0.01499,-0.24425 0.01499,-0.37052 v -25.4 c 0,-1.407156 -0.56611,-2.539893 -1.26969,-2.539893 z"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\ladder tile.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="rect5334-1"
+       style="fill:#803300;stroke:#552200;stroke-width:0.499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 103.78281,98.704177 c -0.70358,0 -1.27021,1.132737 -1.27021,2.539893 v 25.4 c 0,0.12626 0.006,0.2493 0.015,0.37052 h 2.51044 c 0.009,-0.12122 0.015,-0.24426 0.015,-0.37052 v -25.4 c 0,-1.407156 -0.56663,-2.539893 -1.27021,-2.539893 z"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\ladder tile.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <rect
+       style="fill:#803300;stroke:#552200;stroke-width:0.499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5797"
+       width="10.021093"
+       height="1.3229166"
+       x="92.934891"
+       y="101.40156"
+       rx="2.54"
+       ry="1.3229166"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\ladder tile.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <rect
+       style="fill:#803300;stroke:#552200;stroke-width:0.499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5797-2"
+       width="10.021093"
+       height="1.3229166"
+       x="92.934891"
+       y="106.46171"
+       rx="2.54"
+       ry="1.3229166"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\ladder tile.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <rect
+       style="fill:#803300;stroke:#552200;stroke-width:0.499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5797-7"
+       width="10.021093"
+       height="1.3229166"
+       x="92.934891"
+       y="111.52187"
+       rx="2.54"
+       ry="1.3229166"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\ladder tile.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <rect
+       style="fill:#803300;stroke:#552200;stroke-width:0.499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5797-5"
+       width="10.021093"
+       height="1.3229166"
+       x="92.934891"
+       y="116.58202"
+       rx="2.54"
+       ry="1.3229166"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\ladder tile.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <rect
+       style="fill:#803300;stroke:#552200;stroke-width:0.499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5797-23"
+       width="10.021093"
+       height="1.3229166"
+       x="92.934891"
+       y="121.64218"
+       rx="2.54"
+       ry="1.3229166"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\ladder tile.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <rect
+       style="fill:#483e37;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2372-2-2"
+       width="25.4"
+       height="25.4"
+       x="10.826401"
+       y="75.699394"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\wall tile 2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#241f1c;fill-opacity:1;stroke:#241f1c;stroke-width:0.598864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 10.8264,75.699632 V 101.09916"
+       id="path3568-54-7-3" />
+    <path
+       style="fill:#241f1c;fill-opacity:1;stroke:#241f1c;stroke-width:0.598864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 36.2264,75.699632 V 101.09916"
+       id="path3568-54-7-2-9" />
+    <path
+       style="fill:#241f1c;fill-opacity:1;stroke:#241f1c;stroke-width:0.598864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 27.759733,75.699632 V 101.09916"
+       id="path3568-54-7-2-2-5" />
+    <path
+       style="fill:#241f1c;fill-opacity:1;stroke:#241f1c;stroke-width:0.598864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 19.293067,75.699632 V 101.09916"
+       id="path3568-54-7-2-0-4" />
+    <rect
+       style="fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2372-2-2-5"
+       width="25.4"
+       height="25.4"
+       x="50.302109"
+       y="78.178322"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\wall corner.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <g
+       id="g126112"
+       transform="translate(-25.888395,-15.481587)"
+       inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\skull door.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <rect
+         style="fill:#483e37;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect2372-2-2-7"
+         width="25.4"
+         height="25.4"
+         x="43.520145"
+         y="134.8662"
+         inkscape:export-filename="C:\Users\JikJak\Unity\Hodgepodge\Assets\sprites\skull door.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <g
+         id="g126098">
+        <g
+           id="g126086"
+           transform="translate(26.285958,16.010759)">
+          <ellipse
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+             id="path124509"
+             cx="29.934187"
+             cy="130.61285"
+             rx="7.2264323"
+             ry="6.0688801" />
+          <rect
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+             id="rect124533"
+             width="6.7138019"
+             height="4.6302085"
+             x="26.577286"
+             y="133.93669"
+             rx="2.5000002"
+             ry="2.5000002" />
+          <path
+             id="rect124533-7"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-linecap:round;stroke-opacity:1"
+             d="m 105.72266,517.08789 v 5.73633 c 0.62704,0.28516 1.29339,0.50845 1.99023,0.66016 v -6.39649 z"
+             transform="scale(0.26458333)" />
+          <path
+             id="rect124533-0"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-linecap:round;stroke-opacity:1"
+             d="m 118.5625,517.08789 v 6.39649 c 0.6967,-0.15171 1.36135,-0.37505 1.98828,-0.66016 v -5.73633 z"
+             transform="scale(0.26458333)" />
+          <ellipse
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+             id="path124709"
+             cx="26.833601"
+             cy="130.04271"
+             rx="1.6040365"
+             ry="2.0174479" />
+          <ellipse
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+             id="path124709-6"
+             cx="33.034771"
+             cy="130.04271"
+             rx="1.6040365"
+             ry="2.0174479" />
+          <path
+             sodipodi:type="star"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-linecap:round;stroke-opacity:1"
+             id="path124995"
+             inkscape:flatsided="true"
+             sodipodi:sides="3"
+             sodipodi:cx="113.44644"
+             sodipodi:cy="502.04581"
+             sodipodi:r1="4.2904782"
+             sodipodi:r2="2.1452391"
+             sodipodi:arg1="-1.5707963"
+             sodipodi:arg2="-0.52359878"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 113.44644,497.75533 3.71566,6.43572 -7.43132,0 z"
+             transform="matrix(0.26458333,0,0,0.26458333,-0.08185036,0.52916663)"
+             inkscape:transform-center-y="-0.28379893" />
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+             id="rect125608-1"
+             width="0.52618688"
+             height="1.7539562"
+             x="29.104954"
+             y="136.81294" />
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+             id="rect125608-4"
+             width="0.52618688"
+             height="1.7539562"
+             x="30.23723"
+             y="136.81294" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

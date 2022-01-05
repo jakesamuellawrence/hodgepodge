@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &2094036457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2012276341944363859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b7cbcb398495364bb24ab8a70ace9d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 4
+--- !u!1001 &8935765245497344837
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7125218159809856033, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7125218159809856033, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7125218159809856033, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7125218159809856033, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7125218159809856033, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7125218159809856033, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7125218159809856033, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7125218159809856033, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7125218159809856033, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7125218159809856033, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7125218159809856033, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7489272386536253462, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_Name
+      value: bouncing angry cannon Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7848911260734048605, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7848911260734048605, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_Constraints
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7848911260734048605, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+      propertyPath: m_UseFullKinematicContacts
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+--- !u!1 &2012276341944363859 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7489272386536253462, guid: b615e78a8333b0f4e92283b0c06bd0e8, type: 3}
+  m_PrefabInstance: {fileID: 8935765245497344837}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Core
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacles
+  - Modules
+  - 
+  - Friendly Bullets
+  - Enemy Bullets
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 485932889
+    locked: 0
+  - name: Floor Decoration
+    uniqueID: 858616421
+    locked: 0
+  - name: Obstacles
+    uniqueID: 173632011
+    locked: 0
+  - name: Entities
+    uniqueID: 2533601063
+    locked: 0
+  - name: Bullets
+    uniqueID: 930082547
+    locked: 0
